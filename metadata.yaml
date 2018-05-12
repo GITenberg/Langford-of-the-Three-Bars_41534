@@ -1,0 +1,45 @@
+_repo: Langford-of-the-Three-Bars_41534
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wyeth, N. C. (Newell Convers)
+    aliases:
+    - Wyeth, N.C.
+    - Wyeth, Newell Convers
+    birthdate: 1882
+    deathdate: 1945
+    gutenberg_agent_id: '32841'
+    url: http://www.gutenberg.org/2009/agents/32841
+    wikipedia: http://en.wikipedia.org/wiki/N._C._Wyeth
+covers:
+- cover_type: archival
+  image_path: 41534-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Boyles, Virgil D. (Virgil Dillin)
+    alias: Boyles, Virgil Dillin
+    birthdate: 1872
+    gutenberg_agent_id: '41224'
+    url: http://www.gutenberg.org/2009/agents/41224
+  - agent_name: Bingham, Kate Boyles
+    alias: Boyles, Kate
+    birthdate: 1876
+    deathdate: 1959
+    gutenberg_agent_id: '41223'
+    url: http://www.gutenberg.org/2009/agents/41223
+description: ''
+gutenberg_issued: '2012-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41534'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cowboys -- Fiction'
+- !lcsh 'Ranch life -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Western stories'
+title: Langford of the Three Bars
+url: http://www.gutenberg.org/ebooks/41534
